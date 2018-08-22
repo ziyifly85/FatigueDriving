@@ -1,0 +1,11 @@
+/.vs/
+/Debug/
+/lib/
+/model/
+/Release/
+/x64/
+/driver_detection.VC.db
+/driver_detection.VC.VC.opendb
+/driver_detection/x64/
+/driver_detection/log/
+
